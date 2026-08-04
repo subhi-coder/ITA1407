@@ -1,1 +1,5 @@
-
+uptime
+date
+ls
+mv example1.txt nmchange.txt
+ls
