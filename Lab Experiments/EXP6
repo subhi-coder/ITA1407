@@ -1,1 +1,4 @@
-
+touch fireeee.txt
+ls
+pwd
+wget https://saveetha.com/index.html
